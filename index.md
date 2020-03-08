@@ -1,6 +1,6 @@
 ---
 layout: page
-title: thuanpham0807 site
+title: thuanpham0807
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
