@@ -24,9 +24,9 @@ Language:
 - English: Professional working  proficiency 
 
 Hobbies: Photography
-- 1. [My Flickr](https://www.flickr.com/photos/thuanpham-0807)
-- 2. [My 500px] (https://500px.com/thuanpham85)
-- 3. [My Shutterstock] (https://www.shutterstock.com/g/ThuanPham0807)
+- -[My Flickr](https://www.flickr.com/photos/thuanpham-0807)
+- -[My 500px](https://500px.com/thuanpham85)
+- -[My Shutterstock](https://www.shutterstock.com/g/ThuanPham0807)
 
 Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
