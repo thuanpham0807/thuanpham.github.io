@@ -24,16 +24,16 @@ Language:
 - English: Professional working  proficiency 
 
 Hobbies: Photography
-	1. Flickr: https://www.flickr.com/photos/thuanpham-0807
-	2. 500px: https://500px.com/thuanpham85
-	3. Shutterstock: https://www.shutterstock.com/g/ThuanPham0807
+- 1. [My Flickr](https://www.flickr.com/photos/thuanpham-0807)
+- 2. [My 500px] (https://500px.com/thuanpham85)
+- 3. [My Shutterstock] (https://www.shutterstock.com/g/ThuanPham0807)
 
 Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
 - Experience working in Agile/Scrum model. ▪ Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
-		1. https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1
-		2. https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1
+- - [Figma Sample 2] (https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
+- - [Figma Sample 1](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
 - Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
 
@@ -41,7 +41,7 @@ Work Experience in 2 recently companies
 
 07/2018 - Now: Senior Tester
 - Company:  RCH-Asia
-- Website:   https://www.rch-asia.com/
+- Website:   [https://www.rch-asia.com/]
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
 - Projects: 
 	- Native Android applications for cash register system machines like POS or handheld waiter device
@@ -55,7 +55,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Define, develop, implement, and maintain automation test scripts.
 
 01/2016 – 07/2018: Senior QC - Company:  Zinio 
-- Website:   https://corp.zinio.com/about-us/  
+- Website:   [https://corp.zinio.com/about-us/]  
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
 - Projects: 
 	- Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
