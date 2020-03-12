@@ -6,22 +6,22 @@ description: this is Thuan profile page
 ---
 
 Contact:
-	● DOB: 08/07/1985
-	● Cell phone: 0765577620
-	● E-mail: thuan.phamvan0807@gmail.com
-	● Skype: thuan.pham.0807
-	● Address: 41/5 Lien Khu 2-5 street, district  BinhTan, Ho Chi Minh city,  Viet Nam
-	● Education: Ho Chi Minh City University of Natural  Sciences -  Software technology
+- DOB: 08/07/1985
+- Cell phone: 0765577620
+- E-mail: thuan.phamvan0807@gmail.com
+- Skype: thuan.pham.0807
+- Address: 41/5 Lien Khu 2-5 street, district  BinhTan, Ho Chi Minh city,  Viet Nam
+- Education: Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 Work history: 
-	● 07/2018 – Now: RCH
-	● 01/2016 – 07/2018: Zinio
-	● 05/2013 – 12/2015: Audience Media  VietNam
-	● 11/2010 – 04/2013: Gameloft VietNam
+- 07/2018 – Now: RCH
+- 01/2016 – 07/2018: Zinio
+- 05/2013 – 12/2015: Audience Media  VietNam
+- 11/2010 – 04/2013: Gameloft VietNam
 
 Language:
-	● Vietnamese: Native language. 
-	● English: Professional working  proficiency 
+- Vietnamese: Native language. 
+- English: Professional working  proficiency 
 
 Hobbies: Photography
 	1. Flickr: https://www.flickr.com/photos/thuanpham-0807
@@ -29,42 +29,42 @@ Hobbies: Photography
 	3. Shutterstock: https://www.shutterstock.com/g/ThuanPham0807
 
 Summary and Abilities:
-	▪ Work experience in many types of projects: Web, Mobile, API, End to End test. 
-	▪ Design test strategy, test plan, test-suite, test-case and product document. 
-	▪ Experience working in Agile/Scrum model. ▪ Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
+- Work experience in many types of projects: Web, Mobile, API, End to End test. 
+- Design test strategy, test plan, test-suite, test-case and product document. 
+- Experience working in Agile/Scrum model. ▪ Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
 		1. https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1
 		2. https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1
-	▪ Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
-	▪ Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
+- Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
+- Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
 
 Work Experience in 2 recently companies
 
-●07/2018 - Now: Senior Tester
-	o Company:  RCH-Asia
-	o Website:   https://www.rch-asia.com/
+07/2018 - Now: Senior Tester
+- Company:  RCH-Asia
+- Website:   https://www.rch-asia.com/
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
-	o Projects: 
-		▪ Native Android applications for cash register system machines like POS or handheld waiter device
-		▪ In-house applications for internal using.
-	o Responsibilities: 
-		▪ Involve in building up software team in Vietnam: Working abroad in Italy, reviewing resumes, interview and training. 
-		▪ Involve in project management process: analyzes requirement document or clarifies the requirement directly with stake-holders; design wireframe applications. 
-		▪ Define test strategy, test plan, test cases. 
-		▪ Execute functional, regression, integration, sanity and smoke testing. 
-		▪ Write documents and guide-line of company's products. 
-		▪ Define, develop, implement, and maintain automation test scripts.
+- Projects: 
+	- Native Android applications for cash register system machines like POS or handheld waiter device
+	- In-house applications for internal using.
+- Responsibilities: 
+	- Involve in building up software team in Vietnam: Working abroad in Italy, reviewing resumes, interview and training. 
+	- Involve in project management process: analyzes requirement document or clarifies the requirement directly with stake-holders; design wireframe applications. 
+	- Define test strategy, test plan, test cases. 
+	- Execute functional, regression, integration, sanity and smoke testing. 
+	- Write documents and guide-line of company's products. 
+	- Define, develop, implement, and maintain automation test scripts.
 
-●01/2016 – 07/2018: Senior QC 	o Company:  Zinio 
-	o Website:   https://corp.zinio.com/about-us/  
+01/2016 – 07/2018: Senior QC - Company:  Zinio 
+- Website:   https://corp.zinio.com/about-us/  
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
-	o Projects: 
-		▪ Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
-		▪ End to End testing for whole Zinio system and services 	
-	o Responsibilities: 
-		▪ Involve in building up QC team: reviewing resumes, interview and training. 
-		▪ Making test plan, design, review  and execute test cases 
-		▪ Prepare testing environment 
-		▪ Execute functional, regression, integration, sanity and smoke testing. 
-		▪ Write document and guide line of company's products. 
-		▪ Support team member in resolve issue, discuss with PM and stakeholders  to get final decision. 
-		▪ Implement, and maintain automation test scripts.
+- Projects: 
+	- Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
+	- End to End testing for whole Zinio system and services 	
+- Responsibilities: 
+	- Involve in building up QC team: reviewing resumes, interview and training. 
+	- Making test plan, design, review  and execute test cases 
+	- Prepare testing environment 
+	- Execute functional, regression, integration, sanity and smoke testing. 
+	- Write document and guide line of company's products. 
+	- Support team member in resolve issue, discuss with PM and stakeholders  to get final decision. 
+	- Implement, and maintain automation test scripts.
