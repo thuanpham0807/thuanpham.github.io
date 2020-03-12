@@ -5,7 +5,7 @@ tagline: Thuan Profile
 description: this is Thuan profile page
 ---
 
-Contact:
+### Contact:
 - DOB: 08/07/1985
 - Cell phone: 0765577620
 - E-mail: thuan.phamvan0807@gmail.com
@@ -31,9 +31,10 @@ Hobbies: Photography
 Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
-- Experience working in Agile/Scrum model. ▪ Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
-	- [Figma Sample 2] (https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
-	- [Figma Sample 1](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
+- Experience working in Agile/Scrum model.
+- Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
+	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
+	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
 - Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
 
