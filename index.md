@@ -2,7 +2,7 @@
 layout: page
 title: thuan pham
 tagline: Thuan Profile
-description: this is Thuan's profile page
+description: this is Thuan profile page
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
