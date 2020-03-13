@@ -41,7 +41,7 @@ description: this is Thuan profile page
 
 #### 07/2018 - Now: Senior Tester
 - Company:  RCH-Asia
-- Website:   [https://www.rch-asia.com/]
+- Website:   (https://www.rch-asia.com/)
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
 - Projects: 
 	- Native Android applications for cash register system machines like POS or handheld waiter device
@@ -55,7 +55,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Define, develop, implement, and maintain automation test scripts.
 
 #### 01/2016 – 07/2018: Senior QC - Company:  Zinio 
-- Website:   [https://corp.zinio.com/about-us/]  
+- Website:   (https://corp.zinio.com/about-us/)
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
 - Projects: 
 	- Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
