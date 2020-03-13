@@ -4,8 +4,6 @@ title: thuan pham
 tagline: Thuan Profile
 description: this is Thuan profile page
 ---
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 ### Contact:
 - DOB: 08/07/1985
 - Cell phone: 0765577620
@@ -14,22 +12,22 @@ description: this is Thuan profile page
 - Address: 41/5 Lien Khu 2-5 street, district  BinhTan, Ho Chi Minh city,  Viet Nam
 - Education: Ho Chi Minh City University of Natural  Sciences -  Software technology
 
-Work history: 
+### Work history: 
 - 07/2018 – Now: RCH
 - 01/2016 – 07/2018: Zinio
 - 05/2013 – 12/2015: Audience Media  VietNam
 - 11/2010 – 04/2013: Gameloft VietNam
 
-Language:
+### Language:
 - Vietnamese: Native language. 
 - English: Professional working  proficiency 
 
-Hobbies: Photography
+### Hobbies: Photography
 - [My Flickr](https://www.flickr.com/photos/thuanpham-0807)
 - [My 500px](https://500px.com/thuanpham85)
 - [My Shutterstock](https://www.shutterstock.com/g/ThuanPham0807)
 
-Summary and Abilities:
+### Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
 - Experience working in Agile/Scrum model.
@@ -39,9 +37,9 @@ Summary and Abilities:
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
 - Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
 
-Work Experience in 2 recently companies
+### Work Experience in 2 recently companies
 
-07/2018 - Now: Senior Tester
+#### 07/2018 - Now: Senior Tester
 - Company:  RCH-Asia
 - Website:   [https://www.rch-asia.com/]
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
@@ -56,7 +54,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Write documents and guide-line of company's products. 
 	- Define, develop, implement, and maintain automation test scripts.
 
-01/2016 – 07/2018: Senior QC - Company:  Zinio 
+#### 01/2016 – 07/2018: Senior QC - Company:  Zinio 
 - Website:   [https://corp.zinio.com/about-us/]  
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
 - Projects: 
