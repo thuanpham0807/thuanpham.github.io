@@ -41,7 +41,8 @@ description: this is Thuan profile page
 
 #### 07/2018 - Now: Senior Tester
 - Company:  RCH-Asia
-- Website:   (https://www.rch-asia.com/), 
+- Website:   (https://www.rch-asia.com/)
+
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
 - Projects: 
 	- Native Android applications for cash register system machines like POS or handheld waiter device
