@@ -4,6 +4,7 @@ title: thuan pham
 tagline: Thuan Profile
 description: this is Thuan profile page
 ---
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Contact:
 - DOB: 08/07/1985
