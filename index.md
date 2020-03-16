@@ -1,7 +1,7 @@
 ---
 layout: page
 title: thuan pham
-tagline: Thuan Profile
+tagline: Profile
 description: this is Thuan profile page
 ---
 ### Contact:
