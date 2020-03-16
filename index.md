@@ -5,7 +5,7 @@ tagline: Profile
 description: this is Thuan profile page
 ---
 ### Contact:
-- DOB: 08/07/1985
+- ![dob icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/dob.png?raw=true) 08/07/1985
 - Cell phone: 0765577620
 - E-mail: thuan.phamvan0807@gmail.com
 - Skype: thuan.pham.0807
@@ -38,7 +38,7 @@ description: this is Thuan profile page
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
 - Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
 
-### Work Experience in 2 recently companies
+### ![exp icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/pngwave.png?raw=true) Work Experience in 2 recently companies
 
 #### 07/2018 - Now: Senior Tester
 - Company:  RCH-Asia
