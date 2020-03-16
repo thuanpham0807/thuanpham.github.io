@@ -10,7 +10,9 @@ description: this is Thuan profile page
 - E-mail: thuan.phamvan0807@gmail.com
 - Skype: thuan.pham.0807
 - Address: 41/5 Lien Khu 2-5 street, district  BinhTan, Ho Chi Minh city,  Viet Nam
-- Education: Ho Chi Minh City University of Natural  Sciences -  Software technology
+
+### Education: 
+Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### Work history: 
 - 07/2018 – Now: RCH
