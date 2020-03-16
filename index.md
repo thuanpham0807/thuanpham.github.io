@@ -27,7 +27,7 @@ description: this is Thuan profile page
 - [My 500px](https://500px.com/thuanpham85)
 - [My Shutterstock](https://www.shutterstock.com/g/ThuanPham0807)
 
-![skill icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/skill_icon.png) 
+![skill icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/skill_icon.png?raw=true) 
 ### Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
