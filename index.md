@@ -55,7 +55,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Write documents and guide-line of company's products. 
 	- Define, develop, implement, and maintain automation test scripts.
 
-#### 01/2016 – 07/2018: Senior QC - Company:  Zinio 
+#### 01/2016 – 07/2018: Senior QC
 - Company:  Zinio
 - [https://corp.zinio.com/about-us/](https://corp.zinio.com/about-us/)
 
