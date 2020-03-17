@@ -42,7 +42,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in 2 recently companies
 
 #### 07/2018 - Now: Senior Tester
-- Company:  RCH-Asia
+- Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
 - [https://www.rch-asia.com/](https://www.rch-asia.com/)
 
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
@@ -58,7 +58,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Define, develop, implement, and maintain automation test scripts.
 
 #### 01/2016 – 07/2018: Senior QC
-- Company:  Zinio
+- Company:  Zinio ![Zinio Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/ziniologo.png)
 - [https://corp.zinio.com/about-us/](https://corp.zinio.com/about-us/)
 
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
