@@ -1,7 +1,7 @@
 ---
 layout: page
-title: thuan pham
-tagline: Profile
+title: Pham Van Thuan
+tagline: Resume
 description: this is Thuan profile page
 ---
 - ![dob icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/dob.png) 08/07/1985
