@@ -4,11 +4,11 @@ title: Pham Van Thuan
 tagline: Resume
 description: this is Thuan profile page
 ---
-- ![dob icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/dob.png) 08/07/1985
-- ![cellphone icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/cellphone.png) 0765577620
-- ![email icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/email.png) thuan.phamvan0807@gmail.com
-- ![place icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/place.png) 41/5 Lien Khu 2-5 street, district  Binh Tan, Ho Chi Minh city,  Viet Nam
-- Skype: thuan.pham.0807
+#### ![dob icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/dob.png) :08/07/1985
+#### ![cellphone icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/cellphone.png) :0765577620
+#### ![email icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/email.png) :thuan.phamvan0807@gmail.com
+#### ![place icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/place.png) :41/5 Lien Khu 2-5 street, district  Binh Tan, Ho Chi Minh city,  Viet Nam
+#### ![skype icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/skype.png) : thuan.pham.0807
 
 ### Education: 
 Ho Chi Minh City University of Natural  Sciences -  Software technology
