@@ -21,7 +21,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### Language:
 - Vietnamese: Native language. 
-- English: Professional working  proficiency 
+- English: Professional working  proficiency
 
 ### Hobbies: Photography
 - [My Flickr](https://www.flickr.com/photos/thuanpham-0807)
