@@ -37,7 +37,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
 	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
-- Flexible at work and resolve issues; willing to accept new challenges. Current workload management: 50% manual and  50% automation.	
+- Flexible at work and resolve issues; willing to accept new challenges.
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in 2 recently companies
 
@@ -64,7 +64,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 Zinio is a multi-platform distribution service for digital magazines, with more  than 5,500 magazines from a wide range of publishers. 	
 - Projects: 
 	- Zinio Admin tool:  It’s a Web app was built for media publishing Magazines  on mobile, web platforms, control the E-Commerce and Marketing systems.
-	- End to End testing for whole Zinio system and services 	
+	- End to End testing for whole Zinio system and services include many types of product like API service, Web app, E-comerce Site, Mobile apps
 - Responsibilities: 
 	- Involve in building up QC team: reviewing resumes, interview and training. 
 	- Making test plan, design, review  and execute test cases 
