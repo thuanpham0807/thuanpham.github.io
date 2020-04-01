@@ -14,7 +14,7 @@ description: this is Thuan profile page
 Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### Work history: 
-- 07/2018 – Now: RCH
+- 07/2018 – 04/2020: RCH
 - 01/2016 – 07/2018: Zinio
 - 05/2013 – 12/2015: Audience Media  VietNam
 - 11/2010 – 04/2013: Gameloft VietNam
