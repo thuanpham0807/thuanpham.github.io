@@ -41,7 +41,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in 2 recently companies
 
-#### 07/2018 - Now: Senior Tester
+#### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
 - [https://www.rch-asia.com/](https://www.rch-asia.com/)
 
