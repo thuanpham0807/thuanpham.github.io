@@ -5,10 +5,10 @@ tagline: Resume
 description: this is Thuan profile page
 ---
 ### Contact:
-#### ![cellphone icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/cellphone.png) +84765577620
-#### ![email icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/email.png) thuan.phamvan0807@gmail.com
-#### ![place icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/place.png) district  Binh Tan, Ho Chi Minh city,  Viet Nam
-#### ![skype icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/skype.png) thuan.pham.0807
+- Cell phone: +84765577620
+- Email: thuan.phamvan0807@gmail.com
+- Adress: Binh Tan district, Ho Chi Minh city,  Vietnam
+- Skype: thuan.pham.0807
 
 ### Education: 
 Ho Chi Minh City University of Natural  Sciences -  Software technology
