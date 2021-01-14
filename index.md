@@ -14,6 +14,7 @@ description: this is Thuan profile page
 Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### Work history: 
+- 04/2020 - now: Restaff
 - 07/2018 – 04/2020: RCH
 - 01/2016 – 07/2018: Zinio
 - 05/2013 – 12/2015: Audience Media  VietNam
@@ -40,6 +41,10 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 - Flexible at work and resolve issues; willing to accept new challenges.
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in 2 recently companies
+
+#### 04/2020 - Now: Senior Tester
+- Company:  Restaff ![RS Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rslogo.png)
+To be updated....
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
