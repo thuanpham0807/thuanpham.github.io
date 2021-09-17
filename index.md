@@ -40,11 +40,12 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
 - Flexible at work and resolve issues; willing to accept new challenges.
 
-### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in 2 recently companies
+### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in recently companies
 
 #### 04/2020 - Now: Senior Tester
 - Company:  Restaff ![RS Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rslogo.png)
-To be updated....
+- [https://www.restaff.no/](https://www.restaff.no/)
+
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
