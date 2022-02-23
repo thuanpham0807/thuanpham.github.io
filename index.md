@@ -43,7 +43,7 @@ Photography & travel
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in recently companies
 
-#### 04/2020 - Now: Senior Tester
+#### 04/2020 - Present: Senior Tester
 - Company:  Restaff ![RS Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rslogo.png)
 - [https://www.restaff.no/](https://www.restaff.no/)
 
