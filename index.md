@@ -26,10 +26,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 
 ### Hobbies:
 Photography & travel
-- [My Flickr](https://www.flickr.com/photos/thuanpham-0807)
 - [My 500px](https://500px.com/thuanpham85)
-- [My Shutterstock](https://www.shutterstock.com/g/ThuanPham0807)
-
 
 ### ![skill icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/skill_icon.png?raw=true) Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
