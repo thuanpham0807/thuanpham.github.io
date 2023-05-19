@@ -12,6 +12,8 @@ description: this is Thuan profile page
 
 ### Education: 
 Ho Chi Minh City University of Natural  Sciences -  Software technology
+### Licenses & certifications:
+- Professional Scrum Master™ I (PSM I) [Show credential](https://www.credly.com/users/thuan-pham.d6909d02/badges)
 
 ### Work history: 
 - 04/2020 - now: Restaff
