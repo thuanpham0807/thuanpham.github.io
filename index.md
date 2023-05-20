@@ -14,7 +14,8 @@ description: this is Thuan profile page
 - Ho Chi Minh City University of Natural  Sciences -  Software technology
 ### Licenses & certifications:
 - Professional Scrum Master™ I (PSM I) [Show credential](https://www.scrum.org/user/333024)
-
+- Advanced Google Analytics [Show credential](https://analytics.google.com/analytics/academy/certificate/mBYmzoWCTDKI9bNH7jsWNQ)
+- Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/thuanpham0807/responsive-web-design)
 ### Work history: 
 - 04/2020 - now: Restaff
 - 07/2018 – 04/2020: RCH
@@ -46,6 +47,8 @@ Photography & travel
 - Company:  Restaff ![RS Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rslogo.png)
 - [https://www.restaff.no/](https://www.restaff.no/)
 
+Restaff – House of Norway is a leading provider of custom software development services, offering clients the resources and expertise needed to establish an effective and productive development center.
+- Working for client Upheads from Norway https://upheads.no/
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
