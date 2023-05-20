@@ -11,7 +11,7 @@ description: this is Thuan profile page
 - Skype: thuan.pham.0807
 
 ### Education: 
-Ho Chi Minh City University of Natural  Sciences -  Software technology
+- Ho Chi Minh City University of Natural  Sciences -  Software technology
 ### Licenses & certifications:
 - Professional Scrum Master™ I (PSM I) [Show credential](https://www.scrum.org/user/333024)
 
