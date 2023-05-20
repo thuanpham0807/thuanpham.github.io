@@ -22,7 +22,7 @@ description: this is Thuan profile page
 - 04/2020 - now: Restaff
 - 07/2018 – 04/2020: RCH
 - 01/2016 – 07/2018: Zinio
-- 05/2013 – 12/2015: Audience Media  VietNam
+- 05/2013 – 12/2015: Audience Media  VietNam (it's merged and acquired by Zinio)
 - 11/2010 – 04/2013: Gameloft VietNam
 
 ### Language:
