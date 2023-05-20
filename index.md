@@ -12,10 +12,12 @@ description: this is Thuan profile page
 
 ### Education: 
 - Ho Chi Minh City University of Natural  Sciences -  Software technology
+
 ### Licenses & certifications:
 - Professional Scrum Master™ I (PSM I) [Show credential](https://www.scrum.org/user/333024)
 - Advanced Google Analytics [Show credential](https://analytics.google.com/analytics/academy/certificate/mBYmzoWCTDKI9bNH7jsWNQ)
 - Responsive Web Design [Show credential](https://www.freecodecamp.org/certification/thuanpham0807/responsive-web-design)
+
 ### Work history: 
 - 04/2020 - now: Restaff
 - 07/2018 – 04/2020: RCH
@@ -28,8 +30,8 @@ description: this is Thuan profile page
 - English: Professional working  proficiency
 
 ### Hobbies:
-Photography & travel
-- [My 500px](https://500px.com/thuanpham85)
+- Photography [My 500px](https://500px.com/thuanpham85)
+- Travel
 
 ### ![skill icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/skill_icon.png?raw=true) Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
