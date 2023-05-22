@@ -35,9 +35,9 @@ description: this is Thuan profile page
 
 ### ![skill icon](https://github.com/thuanpham0807/thuanpham0807.github.io/blob/master/assets/img/skill_icon.png?raw=true) Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
-- Design test strategy, test plan, test-suite, test-case and product document. 
+- Design test strategy, test plan, test-suite, test-case and product document.
 - Experience working in Agile/Scrum model.
-- Using design tools (Photoshop, Figma, Zeplin, Draw.io) to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
+- Using design tools like Photoshop, Figma, Zeplin, Diagrams(draw.io), Snagit... to design flowchart, wireframe. Refer to samples can be shared public in my Figma account below:
 	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
 	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
@@ -51,6 +51,16 @@ description: this is Thuan profile page
 
 Restaff – House of Norway is a leading provider of custom software development services, offering clients the resources and expertise needed to establish an effective and productive development center.
 - Working for client Upheads from Norway https://upheads.no/
+- Projects: 
+	- The CRM & Logistics web applications for Nordic market.
+	- HRM mobile(Android & iOS) applications.
+- Responsibilities: 
+	- Clarify the requirements/ feedbacks from stakeholder, make specification or draw mockup UI for product backlog items.
+	- Investigate and handle bugs report from clients
+	- Define test strategy, test plan, test cases.
+	- Execute functional, regression, integration, sanity and smoke testing.
+	- Write documents and guide-line of company's products.
+	- Build the UI automation test by SpecFlow framework.
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
@@ -58,7 +68,7 @@ Restaff – House of Norway is a leading provider of custom software development
 
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
 - Projects: 
-	- Native Android applications for cash register system machines like POS or handheld waiter device
+	- Native Android applications for cash register system machines like POS or handheld waiter device.
 	- In-house applications for internal using.
 - Responsibilities: 
 	- Involve in building up software team in Vietnam: Working abroad in Italy, reviewing resumes, interview and training. 
@@ -78,8 +88,8 @@ Zinio is a multi-platform distribution service for digital magazines, with more 
 	- End to End testing for whole Zinio system and services include many types of product like API service, Web app, E-comerce Site, Mobile apps
 - Responsibilities: 
 	- Involve in building up QC team: reviewing resumes, interview and training. 
-	- Making test plan, design, review  and execute test cases 
-	- Prepare testing environment 
+	- Making test plan, design, review  and execute test cases.
+	- Prepare testing environment.
 	- Execute functional, regression, integration, sanity and smoke testing. 
 	- Write document and guide line of company's products. 
 	- Support team member in resolve issue, discuss with PM and stakeholders  to get final decision. 
