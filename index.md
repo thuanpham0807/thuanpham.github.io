@@ -77,7 +77,7 @@ RCH has worked for more than 45 years in the cash register sector and offers the
 	- Define test strategy, test plan, test cases. 
 	- Execute functional, regression, integration, sanity and smoke testing. 
 	- Write documents and guide-line of company's products. 
-	- Define, develop, implement, and maintain automation test scripts.
+	- Define, develop, implement, and maintain automation test scripts by Appium testNG framework
 
 #### 01/2016 – 07/2018: Senior QC
 - Company:  Zinio ![Zinio Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/ziniologo.png)
@@ -94,4 +94,4 @@ Zinio is a multi-platform distribution service for digital magazines, with more 
 	- Execute functional, regression, integration, sanity and smoke testing. 
 	- Write document and guide line of company's products. 
 	- Support team member in resolve issue, discuss with PM and stakeholders  to get final decision. 
-	- Implement, and maintain automation test scripts.
+	- Implement, and maintain automation test scripts by Selenium testNG framework.
