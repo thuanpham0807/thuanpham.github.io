@@ -41,6 +41,7 @@ description: this is Thuan profile page
 	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
 	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
+- Write test script to implement REST API automation test by using POSTMAN.
 - Flexible at work and resolve issues; willing to accept new challenges.
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in recently companies
@@ -60,8 +61,9 @@ Working for client Upheads from Norway (https://upheads.no/)
 	- Investigate and handle bugs report from clients
 	- Define test strategy, test plan, test cases.
 	- Execute functional, regression, integration, sanity and smoke testing.
-	- Write documents and guide-line of company's products.
+	- Write documents and guide-line of company's products. 	
 	- Build the UI automation test by SpecFlow framework.
+ 	- Write & mantain test script to implement REST API automation test.
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
