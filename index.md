@@ -52,7 +52,7 @@ description: this is Thuan profile page
 
 Restaff – House of Norway is a leading provider of custom software development services, offering clients the resources and expertise needed to establish an effective and productive development center.
 
-Working for client Upheads from Norway (https://upheads.no/)
+Working for client [Upheads](https://upheads.no/)
 - Projects: 
 	- The CRM & Logistics web applications for Nordic market.
 	- HRM mobile(Android & iOS) applications.
