@@ -41,7 +41,7 @@ description: this is Thuan profile page
 	- [Figma Sample 1](https://www.figma.com/file/bMSNYknS7U6U96ZujO6kpQ/RCH-Tool-for-Production-Endline-test?node-id=0%3A1)
 	- [Figma Sample 2](https://www.figma.com/file/QOY9EAqvOjopVcMfLHtjEWwM/PrintFSerializationTool?node-id=0%3A1)
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
-- Write test script to implement REST API automation test by using POSTMAN.
+- Ability to apply the automation test for REST API by using POSTMAN (write test script) and GitHub Actions.
 - Flexible at work and resolve issues; willing to accept new challenges.
 
 ### ![exp icon](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/pngwave.png) Work Experience in recently companies
