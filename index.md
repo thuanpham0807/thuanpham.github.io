@@ -63,7 +63,7 @@ Working for client [Upheads](https://upheads.no/)
 	- Execute functional, regression, integration, sanity and smoke testing.
 	- Write documents and guide-line of company's products. 	
 	- Build the UI automation test by SpecFlow framework.
-   	- Write & mantain test script to implement REST API automation test.
+ 	- Write & mantain test script to implement REST API automation test.
 
 #### 07/2018 - 04/2020: Senior Tester
 - Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
