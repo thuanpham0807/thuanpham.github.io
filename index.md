@@ -66,8 +66,8 @@ Working for client [Upheads](https://upheads.no/)
 	- Write & mantain test script to implement REST API automation test.
 
 #### 07/2018 - 04/2020: Senior Tester
-- Company:  RCH-Asia ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
-- [https://www.rch-asia.com/](https://www.rch-asia.com/)
+- Company:  RCH ![RCH Logo](https://raw.githubusercontent.com/thuanpham0807/thuanpham0807.github.io/master/assets/img/rchlogo.png)
+- [https://www.rch-europe.com/](https://www.rch-europe.com/)
 
 RCH has worked for more than 45 years in the cash register sector and offers the most innovative solutions for the management of the point of sale.
 - Projects: 
